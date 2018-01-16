@@ -6,7 +6,7 @@ function forLoop(array){
 }
 
 function whileLoop(n){
-  for(n;n>=0;n--){
+  for(n;n>0;n--){
     console.log(n);
   }
   return "done"
